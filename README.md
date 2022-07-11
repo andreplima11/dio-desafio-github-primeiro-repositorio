@@ -6,7 +6,7 @@
 
 * Parte 1: Comandos básicos do terminal.
 * Parte 2: Conceitos e comandos básicos de GIT.
-* Parte 3: Conceitos e comandos no GitHub.
+* Parte 3: Conceitos de GitHub.
 
 
 
